@@ -1,14 +1,23 @@
 [
     {
-      "title": "Project 1",
-      "description": "This is the first project's description.",
-      "link": "/projects/project1"
+        pid: 1,
+        title: 'Safelane',
+		description: 'A mobile app designed to tackle neglected issue of potholes, open manholes, and other road hazards that can lead to accidents.',
+		tech: 'Flutter, Google Maps API, Firebase',
+		github-link: 'https://github.com/aadityamishraa/SafeLane-Final',
     },
     {
-      "title": "Project 2",
-      "description": "This is the second project's description.",
-      "link": "/projects/project2"
+        pid: 2,
+        title: 'Pollex',
+		description: 'A social platform where users or organizations can create polls, and get responses. Also people can share their opinion by polling.',
+		tech: 'Flutter, Firebase',
+		github-link: 'https://github.com/aadityamishraa/pollex',
+    },
+    {
+        pid: 3,
+        title: 'InforMMU',
+		description: 'An application that helps both faculty and students to streamline their academic experience in MM(DU). ',
+		tech: 'Flutter, Firebase, Reactjs, MUI, Figma',
+		github-link: 'https://github.com/collegeprojectmmdu/InforMMu',
     }
-    
-  ]
-  
+]
